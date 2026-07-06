@@ -132,7 +132,7 @@ predictions = model.predict(X_test_scaled)
 
 ## 📄 Report
 
-A detailed 2-page PDF report is available in [`reports/AI_ML_Task2_Report.pdf`](reports/AI_ML_Task2_Report.pdf) covering methodology, results, charts, and model selection justification.
+A detailed 2-page PDF report is available in [`reports/AI_ML_Task2_Report.pdf`](ml-house-price-task3/) covering methodology, results, charts, and model selection justification.
 
 ---
 
